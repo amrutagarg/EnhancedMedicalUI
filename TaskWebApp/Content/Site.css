@@ -1,0 +1,63 @@
+﻿body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+    background-color: #f8f8f8 !important;
+}
+
+/* Set padding to keep content from hitting the edges */
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+/* Set width on the form input elements since they're 100% wide by default */
+input,
+select,
+textarea {
+    /*max-width: 280px;*/
+}
+
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    width: 100%;
+    margin: auto;
+    padding: 60px;
+}
+.login-card {
+    margin-top: 7%;
+    height: 116px;
+    background-color: #d0cfcf;
+    padding: 3%;
+    font-size: 30px;
+}
+.fixed-footer {
+    position: fixed;
+    bottom: 0;
+    background-color: gray;
+    width: 100%;
+    left: 0;
+}
+.min-hieght {
+    height:300px;
+}
+.box-shadow {
+    box-shadow: 0px 0px 7px 1px rgba(0, 0, 0, 0.2);
+    border-radius: 3px;
+}
+.body-back {
+    background-color:lightgray;
+}
+.cust-container {
+max-width:100% !important;
+}
+.max-width {
+    max-width: 95%;
+    margin: 10px 10px 10px 10px;
+}
+.full-width {
+    width: 98.3%;
+    margin: 10px 10px 10px 10px;
+}
+.min-top-height {
+    min-height:30px;
+}
